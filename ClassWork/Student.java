@@ -1,8 +1,8 @@
 /*
-    ASSIGNMENT 02 : 
-    Write a program to create a class called Student with data member rollno, studname, branch and semester. 
-    Use appropriate constructor to initialize data member. 
-    Create a member function to display student details. 
+    * ASSIGNMENT 02 : 
+    * Write a program to create a class called Student with data member rollno, studname, branch and semester. 
+    * Use appropriate constructor to initialize data member. 
+    * Create a member function to display student details. 
 */
 public class Student {
     

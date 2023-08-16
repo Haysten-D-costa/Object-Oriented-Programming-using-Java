@@ -1,6 +1,7 @@
-/**
- * The Grade class calculates the average of a student's marks and determines their grade based on the
- * average.
+/*
+    * ASSIGNMENT 01 :
+    * The Grade class calculates the average of a student's marks and determines their grade based on the
+    * average.
  */
 import java.util.Scanner;
 
