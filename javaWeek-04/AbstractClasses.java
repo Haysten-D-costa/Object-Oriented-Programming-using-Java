@@ -16,7 +16,7 @@ class Triangle extends Shape {
         System.out.println("Area of Triangle  : "+ (0.5 * d1 + d2));
     }
 }
-public class Abstract {
+public class AbstractClasses {
     public static void main(String[] args) {
         Shape s;
         s = new Triangle();

@@ -35,5 +35,6 @@ public class Grade {
         else {
             System.out.println("\nYou've got a Distinction....");
         }
+        sc.close(); // to prevent a (scanner) resource leak....
     } 
 }

@@ -81,5 +81,6 @@ public class ConditionalStmts {
             n--; 
         }
         System.out.println("Sum : "+sum);
+        sc.close();
     }
 }

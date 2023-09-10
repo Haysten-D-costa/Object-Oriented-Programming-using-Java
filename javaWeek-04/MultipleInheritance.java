@@ -30,5 +30,7 @@ class C extends B {
 public class MultipleInheritance {
     public static void main(String[] args) {
         C c = new C(1, 2);
+        System.out.println(c.d1);
+        System.out.println(c.d2);
     }
 }

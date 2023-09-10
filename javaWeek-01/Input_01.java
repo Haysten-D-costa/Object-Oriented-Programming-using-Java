@@ -15,5 +15,6 @@ public class Input_01 {
         int sum = a + b;
         
         System.out.println("Sum of numbers : "+ sum); // display the sum....
+        sc.close();
     }
 }

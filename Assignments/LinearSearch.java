@@ -29,5 +29,7 @@ public class LinearSearch {
         System.out.print("\nEnter element to be searched : ");
         int search = sc.nextInt();
         search(array, n, search);
+        
+        sc.close(); // to prevent resource leak....
     }
 }

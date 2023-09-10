@@ -12,7 +12,6 @@ public class StringFunctions {
         System.out.println("compareTo()        : "+ s1.compareTo(s2));
 
         String s3 = "Data,Manipulation,Language....";
-        String s4 = "Data,Markup,Language....";
 
         System.out.println("\n\nsplit() function : \n");
         for(String x: s3.split(",")) {
