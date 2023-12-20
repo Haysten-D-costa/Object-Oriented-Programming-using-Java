@@ -2,9 +2,9 @@ class Box {
     double d1, d2;
     Box() {
         d1 = d2 = 1;
-        System.out.println("HERE ");
     }
     Box(double d1, double d2) {
+        System.out.println("HERE ");
         this.d1 = d1;
         this.d2 = d2;
     }

@@ -15,6 +15,6 @@ public class Assign {
         while(ch != null) {
             System.out.println(ch);
         }
-            
+        br.close();
     }
 }

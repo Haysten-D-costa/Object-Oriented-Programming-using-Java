@@ -8,6 +8,6 @@ public class InstanceOf {
     }
     public static void main(String[] args) {
         
-        display(1, 1.1, 'a', 'b');
+        display(1, 1.1, 'a', 'b', "Haysten");
     }
 }
